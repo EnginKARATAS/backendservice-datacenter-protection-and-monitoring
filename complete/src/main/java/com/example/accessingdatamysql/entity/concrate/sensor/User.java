@@ -1,4 +1,4 @@
-package com.example.accessingdatamysql;
+package com.example.accessingdatamysql.entity.concrate.sensor;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
